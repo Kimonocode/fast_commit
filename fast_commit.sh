@@ -2,7 +2,7 @@
 
 ### Create Commits and Merge On Main Quickly ###
 
-#Get git current_branch and stock i 
+# Get git current_branch and stock in
 current_branch=$(git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/');
 
 # current_branch return : [ ( branch ) ]

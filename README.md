@@ -12,3 +12,9 @@ chmod +x ./fast_commit.sh
   }
 }
 ```
+## Using
+
+```shell
+yarn git:push
+npm run git:push
+```

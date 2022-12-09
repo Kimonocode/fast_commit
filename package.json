@@ -1,0 +1,10 @@
+{
+  "name": "fast_commit",
+  "version": "1.0.0",
+  "repository": "https://github.com/Kimonocode/fast_commit.git",
+  "author": "kimonocode <ronald.github.dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "git:push":"./fast_commit.sh"
+  }
+}
